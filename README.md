@@ -1,2 +1,2 @@
-# demo-rep
-testing for school
+# Demo-rep
+### My first demo project
